@@ -3,5 +3,5 @@ Olá,Eu sou João Vitor
 Estou Aprendendo TypeScript
 <br>
 Meus Conhecimentos  :  
-Html - Css - less 
+Html - Css - less  - Sass
 JavaScript  - Jquery - Bootstrap - Angular
